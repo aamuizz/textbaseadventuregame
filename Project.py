@@ -1330,7 +1330,7 @@ def playagain():
     else:
         print("Command not found")
         playagain()
-print("Life in the Galaxy\nMade By Abdul Muizz (FA17-BCS-003)")
+print("Life in the Galaxy\nMade By Abdul Muizz")
 time.sleep(1)
 print('''''')
 x = str(input("Game Menu\n\n1.Play\n2.Quit\n"))
