@@ -1,5 +1,5 @@
 # Name : Life in the Galaxy
-#Made by Abdul Muizz(FA17-BCS-003)
+#Made by Abdul Muizz
 import time
 import random
 def wakeup(): #function1
